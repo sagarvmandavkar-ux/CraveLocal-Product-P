@@ -1,6 +1,6 @@
 # Product Requirements Document: "Nashville Street Eats" Feature
 
-**Author:** [Your Name]
+**Author:** Sagar Mandavkar
 **Status:** In Development
 **Version:** 1.0
 
